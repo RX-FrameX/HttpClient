@@ -16,7 +16,7 @@ namespace FrameX\HttpClient;
 
 class Install
 {
-    const FRAMEX_PLUGIN = true;
+    public const FRAMEX_PLUGIN = true;
 
     /**
      * @var array
